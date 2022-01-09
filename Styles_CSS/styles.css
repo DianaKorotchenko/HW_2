@@ -1,0 +1,91 @@
+* { 
+    margin: 0;    
+}
+p {
+    margin-block-start: 2px;
+    margin-block-end: 5px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h3, h4 {
+    margin-block-start: 5px;
+    margin-block-end: 5px;
+}
+a {
+    text-decoration: none;
+    color: inherit;  
+}
+a:hover {
+    text-decoration: underline;
+}
+.headline {
+    color: white;
+    background-color: rgb(114, 114, 114) ;
+    text-align: center;
+    padding: 20px;  
+    padding-bottom: 10px;
+   }
+.education, .courses, .skills {
+    color: white;
+    background-color: rgb(155, 155, 155);
+    text-align: left; 
+    padding: 20px;  
+    padding-top: 5px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    border: 1px solid white;
+ }
+ /*
+.courses {
+    color: white;
+    background-color: rgb(155, 155, 155);
+    text-align: left; 
+    padding: 20px;  
+    padding-top: 5px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    border: 1px solid white;
+}
+.skills {
+    color: white;
+    background-color: rgb(155, 155, 155);
+    text-align: left; 
+    padding: 20px;  
+    padding-top: 5px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    border: 1px solid white;
+} */
+.contacts {
+    color: white;
+    background-color: rgb(92, 88, 88);
+    text-align: left;
+    padding: 20px;  
+    padding-top: 5px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    border: 1px solid white;
+}
+.edu-list, .cours-list, .skills-list {
+    list-style: none; 
+    padding: inherit;
+    margin-block-start: 2px;
+    margin-block-end: 2px;
+}
+/*
+.cours-list {
+    list-style: none; 
+    padding: inherit;
+    margin-block-start: 2px;
+    margin-block-end: 2px;
+}
+.skills-list {
+    list-style: none; 
+    padding: inherit;
+    margin-block-start: 2px;
+    margin-block-end: 2px;
+} */
