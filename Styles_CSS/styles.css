@@ -70,20 +70,20 @@ a:hover {
     padding-bottom: 5px;
     border: 1px solid white;
 }
-.edulist, .courslist, .sklist {
+.edu-list, .cours-list, .skills-list {
     list-style: none; 
     padding: inherit;
     margin-block-start: 2px;
     margin-block-end: 2px;
 }
 /*
-.courslist {
+.cours-listlist {
     list-style: none; 
     padding: inherit;
     margin-block-start: 2px;
     margin-block-end: 2px;
 }
-.sklist {
+.skills-listlist {
     list-style: none; 
     padding: inherit;
     margin-block-start: 2px;
